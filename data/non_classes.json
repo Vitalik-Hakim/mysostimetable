@@ -1,0 +1,36 @@
+{
+  "FORMMEETING-REGISTRATION": ["Form-Tutor", "Form Meeting", "Form Rooms"],
+  "FORMMEETINGREGISTRATION": ["Form-Tutor", "Form Meeting", "Form Rooms"],
+  "LUNCH BREAK": ["You", "Lunch", "Vortex"],
+  "SNACK BREAK": ["Class Reps", "Snack", "Year Areas"],
+  "Free Period": ["Free Period", "Free Time", "Anywhere"],
+  "ASSEMBLY": ["Assembly", "Assembly", "MNH"],
+  "GUIDANCE Clubs Personal Project Extended Essay": [
+    "Clubs",
+    "Guidance and Counselling",
+    "PP/EE"
+  ],
+  "CAS": ["CAS", "SA", "MNH"],
+  "SA\nER1": ["CAS", "SA", "MNH"],
+  "SAER1": ["CAS", "SA", "MNH"],
+  "EXTENDEDESSAY-PERSONALPROJECTMNH": [
+    "Personal-Project",
+    "MNH",
+    "Extended Essay"
+  ],
+  "GUIDANCEANDCOUNSELLINGKAEXTENDEDESSAY-PERSONALPROJECTMNH": [
+    "Extended Essay",
+    "MNH",
+    "Personal Project"
+  ],
+  "GUIDANCEANDCOUNSELLING": ["Extended Essay", "MNH", "Personal Project"],
+  "EXTENDEDESSAYPERSONALPROJECTMNH": [
+    "Personal Project",
+    "MNH",
+    "Extended Essay"
+  ],
+  "CLUBS": ["CLUBS", "Anywhere", "You"],
+  "FREE": ["Free Period", "Anywhere", "You"],
+  "FORM MEETING REGISTRATION": ["Form-Tutor", "Form Meeting", "Form Rooms"],
+  "ORPLCOLLABORATIVEMEETING": ["Teachers", "Collaborative Meeting", "OR/PL"]
+}
